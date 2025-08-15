@@ -8,7 +8,6 @@ A machine learning project to detect smiles in images using the **Smiling or Not
 
 - [Overview](#overview)
 - [Dataset](#dataset)
-- [Installation](#installation)
 
 ---
 
