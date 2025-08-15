@@ -9,18 +9,23 @@ A machine learning project to detect smiles in images using the **Smiling or Not
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
 ## Overview
 
 The **Smile Detector** is a computer vision project that classifies faces as either "smiling" or "not smiling." Leveraging convolutional neural networks (CNNs), this model is trained on a labeled dataset of face images and aims to deliver high accuracy in detecting smiles in diverse conditions.
+
+
+---
+
+## Installation
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/your-username/smile-detector.git
+   cd smile-detector
+
 
 ---
 
