@@ -19,16 +19,6 @@ The **Smile Detector** is a computer vision project that classifies faces as eit
 
 ---
 
-## Installation
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/your-username/smile-detector.git
-   cd smile-detector
-
-
----
-
 ## Dataset
 
 The project utilizes the **Smiling or Not Face** dataset, which consists of 521 images of smiling and non-smiling faces collected from Kaggle.  
